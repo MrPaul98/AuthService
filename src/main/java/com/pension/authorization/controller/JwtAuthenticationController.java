@@ -91,7 +91,7 @@ public class JwtAuthenticationController {
 			response.setStatusCode(400);
 			response.setToken("Not valid");
 		}
-		log.info("Authorize End authorizeRequest This user is do not have valid token {} ", response);
+		log.info("Authorize End authorizeRequest This user is doesn't have valid token {} ", response);
 		return response;
 	}
 }
