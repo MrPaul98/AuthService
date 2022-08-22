@@ -30,7 +30,6 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 @CrossOrigin
 @Slf4j
-@RequestMapping(value = "/api")
 public class JwtAuthenticationController {
 
 	@Autowired

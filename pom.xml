@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.pension.authorization</groupId>
 	<artifactId>authorization-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.1.1-SNAPSHOT</version>
 	<name>authorization-service</name>
 	<description>Pension-Authorization-Service</description>
 	<properties>
